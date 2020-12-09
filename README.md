@@ -1,1 +1,4 @@
-# Rock-paper-scissors
+## Rock-paper-scissors
+###### Practice with JS
+
+-Understand programming logic 😀
